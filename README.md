@@ -1,13 +1,21 @@
-# WasteSmartHub ~ Smart Solutions for Waste
-{ NOTE - Igdtuw Resource is just my account name; this portal is hosted separately}
-# This repo is of our WEB PORTAL & 3 features of our project are listed below:-
-Key Features - i) Scan the Waste  (ii) Waste Discovery by AR Room (iii) Waste Sorting Game
-# Portal Deployed Link - https://igdtuwresource.github.io/waste-smart-hub/
-# Scan the Waste Github - https://github.com/Poorvaahuja/waste_management_system
-# Waste Discovery by AR Room Github - https://github.com/ChhaviSingh02/WASTE-SEGREGATION-VR-ROOM
-# Waste Sorting Game Github - https://github.com/Igdtuwresource/Game 
-# DESKTOP VIEW - ![image](https://github.com/Igdtuwresource/waste-smart-hub/assets/112039921/14d38505-41fa-428f-a632-3a349984694b)
-# MOBILE VIEW - ![image](https://github.com/Igdtuwresource/waste-smart-hub/assets/112039921/57f46995-75d2-4bc3-9b31-d9cef2f28439)
+# Eco Savvy ~ Smart Solutions for Waste
+TECH STACKS USED - HTML, CSS, JS
+# This repo is of our WEB PORTAL & 5 features of our project are listed below:-
+Key Features - 
+i) Scan the Waste  
+(ii) Waste Discovery by VR Room 
+(iii) Waste Sorting Game 
+(iv) Recycle Hub
+(v) Chatbot
+# Portal Deployed Link - 
+
+# DESKTOP VIEW
+![image](https://github.com/Git-Upasana/eco-savvy/assets/135226089/57a92020-de5c-419f-b986-e294543b8cd6)
+
+# MOBILE VIEW
+![image](https://github.com/Git-Upasana/eco-savvy/assets/135226089/7a8aef6a-1873-476e-a4e2-b1d91492193e)
+
+
 
 
 
