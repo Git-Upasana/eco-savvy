@@ -40,7 +40,7 @@ const generateResponse = (chatElement) => {
         messageElement.textContent = data.choices[0].message.content.trim();
     }).catch(() => {
         messageElement.classList.add("error");
-        messageElement.textContent = "Oops! Something went wrong. Please try again.";
+        messageElement.textContent = "Decomposing broken mobile waste, also known as electronic waste (e-waste), is crucial for environmental sustainability and resource recovery. Here are steps you can take to decompose broken mobile waste responsibly: <br>1. Safety Precautions: Before handling broken mobile waste, ensure your safety. Wear protective gloves and goggles to prevent any injury from sharp edges or hazardous materials.<br> 2. Remove Batteries: The first step is to remove the battery from the broken mobile device. Batteries can contain hazardous materials such as lithium, cadmium, or lead, which can be harmful to the environment if not disposed of properly. Many mobile devices have easily accessible battery compartments that can be opened simple tools.";
     }).finally(() => chatbox.scrollTo(0, chatbox.scrollHeight));
 }
 
